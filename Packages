@@ -57,4 +57,4 @@ Section: Tweaks
 Filename: ./Debs/JailbreakByPass109.deb
 Size: 8834
 MD5sum: 7cad10e48110ea6ac38143a96897bc58
-Depends: mobilesubstrate,com.kidsauto73.autolead
+Depends: mobilesubstrate
