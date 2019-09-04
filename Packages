@@ -1,0 +1,60 @@
+Package: com.disku0001.autoios11
+Name: autolead11
+Version: 11
+Architecture: iphoneos-arm
+Description: hiden | hiden | hiden | hiden | hiden | hiden |
+Maintainer: hiden | hiden | hiden | hiden | hiden | hiden |
+Author: hiden
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/autolead73.deb
+Size: 242884
+MD5sum: c6a6c819d09744a38ff2a6101fdedb44
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.locationchanger
+Name: LocationFaker(10,11)
+Version: 8.0
+Architecture: iphoneos-arm
+Author: Cunstuck <repo@hackyouriphone.org>
+Description: change your location using a map
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Section: Tweaks
+Filename: ./Debs/LocationFaker1011.deb
+Size: 636612
+MD5sum: ed520e2887f755ba235519cee9950856
+Depends: firmware, mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.disku0001.xcon381
+Name: xCon381
+Version: 3.8.1
+Architecture: iphoneos-arm
+Author: n00neimp0rtant <n00neimp0rtant_cydia@icloud.com>
+Depiction: http://modmyi.com/info/xcon.d.php
+Priority: extra
+Description: xCon is a project aimed to be a one-stop solution to bypassing jailbreak detection in App Store applications.
+Homepage: http://modmyi.com/info/xcon.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Section: Tweaks
+Filename: ./Debs/xcon38.deb
+Size: 27986
+MD5sum: b291cd318b61ceb3eb8a32298d9a311b
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+
+Package: com.disku0001.jailbreakbypass
+Name: JailBreakByPass 1.0.9
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: hiden | hiden | hiden | hiden | hiden | hiden |
+Maintainer: hiden | hiden | hiden | hiden | hiden | hiden |
+Author: hiden
+Section: Tweaks
+Filename: ./Debs/JailbreakByPass109.deb
+Size: 8778
+MD5sum: 4bcf23b52be8512f9c8bc26013ed4ede
+Depends: mobilesubstrate,com.disku0001.autoios11
