@@ -1,0 +1,786 @@
+@font-face{font-family:Tahoma;}
+
+body {
+     background: url("../images/bg_2.png") repeat scroll left top transparent;
+     border-top: 3px solid #333333;
+     color: #555555;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 12px;
+     height: 100%;
+     margin: 0px;
+     padding: 10px;
+}
+
+a {
+     color: #9BB50B;
+     text-decoration: none;
+}
+
+a:hover {
+     color: #728507;
+     text-decoration: underline;
+}
+
+#wrapper {
+     margin: 0px auto;
+     width: 100%;
+}
+
+#header {
+     height: 35px;
+     margin: 0px;
+     padding: 0px;
+}
+
+#header .logo {
+     height: 35px;
+     padding: 0px;
+     width: 25%;
+}
+
+#header .logo h2 {
+     color: #F10000;
+     font-family: Impact,Calibri,Tahoma,sans-serif;
+     font-size: 25px;
+     margin: 0px;
+     padding-left: 10px;
+     text-shadow: 1px 1px 1px #666666;
+     text-transform: uppercase;
+}
+
+#header .logo a.logout {
+     float: right;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 20px;
+     height: 31px;
+     padding-top: 4px;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+#header .logo a.icon {
+     margin-left: 5px;
+}
+
+.nav {
+     float: right;
+     height: 35px;
+     list-style: none outside none;
+     margin: 0px 5% 0px 0px;
+     padding: 0px;
+     width: 70%;
+}
+
+.nav li {
+     float: right;
+}
+
+.nav li a {
+     color: #0093E0;
+     display: block;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 22px;
+     margin-right: 2px;
+     padding: 0px 5px;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #EEEEEE;
+}
+
+.nav li a:hover {
+     color: #728507;
+}
+
+.nav li ul {
+     display: none;
+}
+
+.nav li:hover ul {
+     display: block;
+     list-style: none outside none;
+     margin: 0px;
+     padding: 5px 0px 0px;
+     position: absolute;
+     z-index: 999;
+}
+
+.nav li:hover li {
+     float: none;
+}
+
+.nav li:hover ul a {
+     background-color: #EEEEEE;
+     border: medium none;
+     box-shadow: 0px 0px 2px #909090;
+     color: #666666;
+     display: block;
+     font-size: 20px;
+     padding: 4px 5px;
+     text-shadow: none;
+     width: 170px;
+}
+
+.nav li:hover ul a:hover {
+     background-color: #0093E0;
+     color: #FFFFFF;
+}
+
+.nav a.logout {
+     color: #9BB50B;
+     float: right;
+     text-decoration: none;
+     text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+.nav a.icon {
+     margin: 0px;
+     padding: 0px;
+}
+
+.clear {
+     clear: both;
+}
+
+th {
+     background-color: #333333;
+     color: #FFFFFF;
+     font-family: Tahoma,sans-serif;
+     font-size: 12px;
+     padding: 2px 5px;
+     text-align: left;
+}
+
+td {
+     border-bottom: 1px dashed #999999;
+     font-family: Tahoma,sans-serif;
+     margin: 0px;
+     padding: 2px 5px;
+     vertical-align: top;
+}
+
+input {
+     border: medium none;
+     float: right;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 14px;
+     height: 30px;
+     margin: 0px 0px 3px;
+}
+
+input.btn {
+     background: none repeat scroll 0px 0px #0092E0;
+     border: 1px solid #999999;
+     color: #FFFFFF;
+     font-family: Calibri,Tahoma,serif;
+     font-size: 20px;
+     margin-top: 3px;
+     text-shadow: 1px 1px 0px #000000;
+     text-transform: uppercase;
+     width: 100%;
+	 font-weight: bold;
+}
+
+input.txt {
+     float: right;
+     margin: 0px 0px 3px;
+     padding: 0px;
+     text-align: left;
+     text-indent: 5px;
+	 background-color: #DDD;
+}
+
+.label {
+     background-color: #333333;
+     color: #FFFFFF;
+     float: left;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 15px;
+     font-weight: 400;
+     height: 28px;
+     line-height: 25px;
+     margin-bottom: 3px;
+     padding-top: 2px;
+     text-indent: 5px;
+     width: 100px;
+}
+
+textarea {
+     border: medium none;
+     height: 100px;
+     margin-bottom: 3px;
+     max-width: 100%;
+     padding-top: 5px;
+     text-indent: 5px;
+     width: 100%;
+	 background-color: #DDD;
+	 color: #999;
+}
+
+select {
+     border: medium none;
+     height: 30px;
+     margin: 0px 0px 3px;
+     padding: 5px 2px;
+	 background-color: #DDD;
+}
+
+.box {
+     background-color: #EEEEEE;
+     border: 1px solid #CCCCCC;
+     box-shadow: 0px 0px 2px #CCCCCC;
+     margin: 0px auto 10px;
+     overflow: hidden;
+     padding: 0px 10px 10px;
+}
+
+.box.nwkpb {
+     width: 720px;
+}
+
+.box.offeradding input.txt {
+     width: 520px;
+}
+
+.box.offeradding input.globalrate {
+     background-color: transparent;
+     float: left;
+     width: 30px;
+}
+
+.box.snap .label {
+     background-color: #333333;
+     color: #FFFFFF;
+     float: left;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 18px;
+     height: 30px;
+     line-height: 30px;
+     margin: 0px 0px 3px;
+     width: 200px;
+}
+
+.box.snap .txt {
+     background-color: #FFFFFF;
+     float: right;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 18px;
+     font-weight: 700;
+     height: 30px;
+     line-height: 30px;
+     margin: 0px 0px 3px;
+     padding: 0px 5px;
+     text-align: right;
+     width: 110px;
+}
+
+.box .label.click {
+     background-color: #666666;
+}
+
+.box .txt.click {
+     color: #666666;
+}
+
+.box .label.rev {
+     background-color: #9BB50B;
+     font-size: 18px;
+}
+
+.box .txt.rev {
+     color: #9BB50B;
+     font-size: 22px;
+}
+
+#content .setting h2 {
+     background-color: #EEEEEE;
+     border: 1px solid #CCCCCC;
+     box-shadow: 0px 0px 2px #CCCCCC;
+     float: left;
+     font-size: 20px;
+     margin: 0px 10px 10px 0px;
+     overflow: hidden;
+     padding: 2px 10px;
+     text-align: left;
+     width: 320px;
+}
+
+.setting {
+     margin: 0px 0px 10px;
+     width: 680px;
+}
+
+.setting .txt {
+     background-color: #DDD;
+}
+
+.normal .txt {
+     float: left;
+     width: 120px;
+}
+
+.normal .btn {
+     float: left;
+     margin-top: 0px;
+     width: 100px;
+}
+
+.setting select {
+     background-color: #DDD;
+     float: left;
+     width: 120px;
+}
+
+.setting textarea {
+     background-color: #DDD;
+     width: 675px;
+}
+
+.setting .proxy {
+     margin-left: 360px;
+     width: 320px;
+}
+
+.setting .proxy .txt {
+     float: left;
+     width: 220px;
+}
+
+.setting .proxy .btn {
+     margin-top: 0px;
+     width: 100px;
+}
+
+.userupdate {
+	border-bottom: 2px dashed #CCCCCC;
+    margin-bottom: 10px;
+    overflow: hidden;
+    width: 700px;
+}
+.updateUserPoint .form input.btn {
+    float: left;
+    margin: 0 0 10px;
+    width: 80px;
+}
+#content .userupdate h2{
+     background-color: #EEEEEE;
+     border: 1px solid #CCCCCC;
+     box-shadow: 0px 0px 2px #CCCCCC;
+     float: left;
+     font-size: 20px;
+     margin: 0px 10px 0px 0px;
+     overflow: hidden;
+     padding: 2px 10px;
+     text-align: left;
+     width: 320px;
+}
+#content .userupdate .form {
+     margin-left: 360px;
+}
+
+.box.userlists {
+     float: right;
+     width: 270px;
+}
+
+.box.userlists input.txt {
+     width: 170px;
+}
+
+.usercheck {
+	border-bottom: 2px dashed #CCCCCC;
+    padding-bottom: 10px;
+    width: 700px;
+}
+.usercheck.point {
+    margin-top: 20px;
+}
+#content .usercheck h2 {
+     background-color: #EEEEEE;
+     border: 1px solid #CCCCCC;
+     box-shadow: 0px 0px 2px #CCCCCC;
+     float: left;
+     font-size: 20px;
+     margin: 0px 10px 0px 0px;
+     overflow: hidden;
+     padding: 2px 10px;
+     text-align: left;
+     width: 320px;
+}
+
+#content .usercheck .form {
+     margin-left: 360px;
+}
+.form .txt {
+    float: left;
+	background-color: #DDD;
+}
+.form input.btn {
+    float: left;
+    margin: 0 0 10px;
+    width: 80px;
+}
+
+.box.requester {
+     width: 900px;
+}
+
+#content h2 {
+     color: #0093E0;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 23px;
+     margin: 10px 0px;
+     text-align: center;
+     text-shadow: 1px 1px 1px #FFFFFF;
+     text-transform: uppercase;
+}
+
+#content h4 {
+     color: #9BB50B;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 18px;
+     margin: 10px 0px;
+     text-align: left;
+     text-shadow: 1px 1px 1px #FFFFFF;
+     text-transform: uppercase;
+}
+
+#content .error {
+     color: red;
+     display: block;
+     font: 14px Calibri,Tahoma,sans-serif;
+     margin-top: 5px;
+     text-align: right;
+     width: 100%;
+}
+
+#navigation {
+     height: 51px;
+     list-style: none outside none;
+     margin: 0px;
+     padding: 0px;
+     width: 900px;
+}
+
+#navigation li {
+     float: left;
+}
+
+#navigation li a {
+     color: #0093E0;
+     display: block;
+     font-family: Impact,Calibri,Tahoma,sans-serif;
+     font-size: 22px;
+     height: 31px;
+     padding: 10px 15px;
+     text-align: center;
+     text-shadow: 1px 1px 0px #000000;
+     text-transform: uppercase;
+}
+
+#navigation li a:hover {
+     background-color: #0092E0;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+
+#navigation .on a {
+     background-color: #008BD3;
+     color: #FFFFFF;
+}
+
+#content .form_page {
+     margin: 0px auto;
+     width: 300px;
+}
+
+#content .log {
+     border: 1px solid #BBBBBB;
+     color: #AAAAAA;
+     font-size: 14px;
+     height: 22px;
+     margin: 0px 5px 3px 0px;
+     padding-left: 5px;
+     width: 200px;
+}
+
+#content .log_submit {
+     background-color: #008BD3;
+     border: 1px solid #AAAAAA;
+     color: #FFFFFF;
+     float: right;
+     font-family: Impact,Calibri,Tahoma,sans-serif;
+     font-size: 24px;
+     height: 56px;
+     margin: -58px 0px 0px;
+     text-shadow: 1px 1px 0px #000000;
+     text-transform: uppercase;
+     width: 90px;
+}
+
+#content {
+     background: url("../images/bg_2.png") repeat-x scroll 0px 0px #FFFFFF;
+     box-shadow: 0px 0px 4px #000000;
+     margin: 10px 0px 0px;
+     overflow: hidden;
+     padding: 20px 10px;
+     position: relative;
+     z-index: 89;
+}
+
+table, .setting .pass .btn {
+     width: 100%;
+}
+
+input.txt:focus, textarea:focus, select:focus, .setting select:focus, .setting textarea:focus {
+     background-color: #FFFF99;
+	 color: #333;
+}
+
+.box.nwkadding, .box.nwkmng, .box.login {
+     width: 420px;
+}
+
+.box.nwkadding input.txt, .box.login input.txt, .box.snap {
+     width: 320px;
+}
+
+.box.nwkpb input.txt, .box.offeradding {
+     width: 620px;
+	 background-color: #FFF;
+}
+
+.box.offeradding input.rate, .label.globalrate {
+     float: left;
+     width: 100px;
+}
+
+.wallmng input[type="password"] {
+	height: 15px;
+}
+
+.setting .pass, .setting .normal {
+     margin-left: 360px;
+     width: 320px;
+}
+
+.setting .pass .txt, .box.userupdate input.txt {
+     width: 220px;
+}
+
+.setting .adbox textarea {
+	height: 50px;
+}
+.setting .adbox p {
+	margin: 0;
+	padding-left: 5px;
+	font-size: 13px;
+	font-family: Tahoma;
+}
+.setting .adbox input {
+	border: 1px solid #CCC;
+    font-family: Calibri,Tahoma,sans-serif;
+    height: 20px;
+    width: 100%;
+	padding: 2px 0;
+	text-indent: 5px;
+}
+.setting .adbox input:focus {
+	background-color: #FFFF99;
+}
+.setting .adbox input.btn {
+    height: 30px;
+}
+
+#guide {
+     background-color: #9BB50B;
+     bottom: 0px;
+     box-shadow: 0px 0px 4px #CCCCCC;
+     font-family: Calibri,Tahoma,sans-serif;
+     font-size: 20px;
+     padding: 5px;
+     position: fixed;
+     right: 0px;
+     text-align: center;
+     width: 300px;
+     z-index: 999;
+}
+
+#guide a {
+     color: #FFFFFF;
+     font-weight: bold;
+     text-transform: none;
+}
+
+#content .guide h3 {
+     background: none repeat scroll 0px 0px #9BB50B;
+     color: #FFFFFF;
+     font-family: Tahoma,sans-serif;
+     font-size: 18px;
+     margin: 10px 0px 0px;
+     padding: 5px 0px;
+     text-align: center;
+     text-shadow: 1px 1px 0px #333333;
+     text-transform: uppercase;
+}
+
+#content .guide h4 {
+     color: #0093E0;
+     font-family: Tahoma,sans-serif;
+     font-size: 18px;
+     margin: 10px 0px 0px;
+     padding: 0px 10px;
+     text-align: left;
+     text-transform: uppercase;
+}
+
+#content .guide p {
+     padding: 0px 20px;
+}
+
+.calc {
+	margin: 0 auto;
+    width: 215px;
+}
+.calc table {
+	width: 215px;
+}
+.calc td {
+    border: medium none;
+    padding: 0;
+}
+.calc .disp {
+	border: 1px solid #9BB50B;
+    color: #333333;
+    font-family: Calibri,Tahoma,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 2px;
+    text-align: right;
+    width: 206px;
+}
+.calc .butt {
+	background-color: #9BB50B;
+    color: #FFFFFF;
+    font-family: Calibri,Tahoma,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 50px;
+}
+.calc input.butt:hover {
+    background-color: #6B7D09;
+}
+#content .calc h2 {
+    font-size: 20px;
+    margin: 5px 0 0;
+    text-shadow: 1px 1px 0 #CCCCCC;
+}
+/******** TableSorter Style ******/
+
+#content .tablesorter h3 {
+    color: #1571A1;
+    font-family: Calibri,Tahoma,sans-serif;
+    margin: 2px;
+    text-shadow: none;
+	font-weight: normal;
+}
+#content .pager {
+    text-align: right;
+	color: #666666;
+}
+#content .pager .pagedisplay {
+	font-size: 14px;
+    vertical-align: middle;
+}
+#content .pager select {
+	background-color: #EEE;
+	border: 1px solid #DDD;
+	height: 20px;
+}
+
+.idcheckbox input[type="checkbox"] {
+	height: 20px;
+}
+input.deletebtn {
+	float: left;
+	margin-top: 5px;
+	color: #FFF;
+	background-color: #E30000;
+}
+
+.box.nwkReport {
+	width: 600px;
+}
+#content .datepicker .error {
+	text-align: center;
+}
+
+.datepicker {
+	text-align: center;
+}
+.datepicker input {
+	float: none;
+	height: 25px;
+}
+.box.usersReport {
+	width: 400px;
+}
+.filterdata {
+	text-align: left;
+}
+.filterdata .label {
+	height: 25px;
+}	
+.filterdata .textarea {
+	text-indent: 0;
+}
+.filterdata select {
+	height: 27px;
+}
+.filterdata input {
+	float: none;
+	height: 25px;
+	padding-left: 5px;
+}
+.filterdata input[type="submit"] {
+	color: #FFF;
+	background-color: #0093E0;
+}
+
+.box.import {
+	width: 400px;
+}
+.import input[type="file"], .import input[type="text"] {
+	float: none;
+}
+
+#content .filter {
+    height: 30px;
+}
+#content .filter .label {
+    background-color: transparent;
+    color: #333333;
+    width: 50px;
+}
+#content .filter input[type="submit"] {
+    background-color: #9BB50B;
+    color: #FFFFFF;
+    float: left;
+    font-weight: bold;
+}
+#content .filter input[type="text"] {
+    background-color: #EEEEEE;
+    float: left;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+	width: 100px;
+}
+#content .filter select {
+	float: left;
+}
+#content .reset a {
+    color: #FF0000;
+    float: left;
+    font-size: 14px;
+    height: 14px;
+    padding: 8px;
+}

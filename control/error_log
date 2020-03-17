@@ -1,0 +1,110 @@
+[18-Mar-2016 01:41:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:41:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:41:03 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Undefined index: userName in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 8
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 13
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 14
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 15
+[18-Mar-2016 01:41:04 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 57
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Undefined index: userName in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 8
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 13
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 14
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 15
+[18-Mar-2016 01:41:12 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 21
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Undefined index: userName in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 8
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 13
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 14
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 15
+[18-Mar-2016 01:41:20 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 57
+[18-Mar-2016 01:45:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:45:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:45:18 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:45:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:45:18 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 57
+[18-Mar-2016 01:45:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:45:26 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 21
+[18-Mar-2016 01:45:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:45:35 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 21
+[18-Mar-2016 01:47:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:39 UTC] PHP Notice:  Undefined variable: final_report in /home/mobilelo/public_html/leadads18.tk/control/login.php on line 19
+[18-Mar-2016 01:47:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:39 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:47:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:43 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: network in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 404
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:48 UTC] PHP Notice:  Undefined index: country in /home/mobilelo/public_html/leadads18.tk/control/offers.php on line 414
+[18-Mar-2016 01:47:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:49 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report2 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 166
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report3 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 184
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report1 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 201
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report5 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 220
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report4 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 261
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report11 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 284
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report6 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 299
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report8 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 326
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report9 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 345
+[18-Mar-2016 01:47:53 UTC] PHP Notice:  Undefined variable: final_report10 in /home/mobilelo/public_html/leadads18.tk/control/setting.php on line 358
+[18-Mar-2016 01:48:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:48:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 01:48:05 UTC] PHP Notice:  Undefined index: hash in /home/mobilelo/public_html/leadads18.tk/function/fnc.php on line 12
+[18-Mar-2016 02:03:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 2
+[18-Mar-2016 02:03:06 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'mobi_share'@'localhost' (using password: YES) in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 7
+[18-Mar-2016 02:03:06 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 8
+[18-Mar-2016 02:03:06 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/mobilelo/public_html/leadads18.tk/function/config.php on line 8
