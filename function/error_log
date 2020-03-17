@@ -1,0 +1,8 @@
+[18-Mar-2016 01:40:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:40:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:40:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:40:50 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 2
+[18-Mar-2016 01:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 8
+[18-Mar-2016 01:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 13
+[18-Mar-2016 01:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 14
+[18-Mar-2016 01:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mobilelo/public_html/leadads18.tk/function/includes.php on line 15
