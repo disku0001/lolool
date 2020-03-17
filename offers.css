@@ -1,0 +1,90 @@
+#offerslist { color; #333; font-family: Trebuchet MS, Tahoma, san-serif; font-size: 12px; margin: 0; padding: 5px; }
+#offerslist h2 {
+	color: #0093E0;
+    font-size: 26px;
+    padding: 5px;
+    text-shadow: 1px 1px 0 #CCCCCC;
+}	
+#offerslist .offers { border: 1px solid #ccc; padding: 5px; margin: 0 0 5px; background-color: #eee; overflow: hidden;}
+
+#offerslist .offers span.right { 
+	background-color: #FFFFFF;
+	border: 1px solid #CCC;
+    border-bottom: 3px solid #0093E0;
+    color: #666666;
+    float: right;
+    height: 50px;
+    margin: 0 0 10px 10px;
+    padding: 0;
+    width: 50px;
+}
+#offerslist .offers span.right table { margin: 0; padding: 0;}
+#offerslist .offers span.right tr {}
+#offerslist .offers span.right td { padding: 0; text-align: center; border: none;}
+#offerslist .offers span.right td.points {
+	color: #0093E0;
+    font-family: Impact,Georgia,serif;
+    font-size: 24px;
+    text-shadow: 1px 1px 1px #333333;
+}
+
+#offerslist .offers h4 { margin: 0 0 2px; padding: 0; font-size: 18px; text-align: left; }
+#offerslist .offers p { margin: 0; padding: 0; }
+#offerslist .offers p.des {font-style: italic; font-size: 11px; margin-bottom: 3px;}
+#offerslist .offers img {border: 1px solid #ccc;}
+#offerslist .offers p.img {
+	background: url("images/noimage.png") no-repeat scroll center center #FFFFFF;
+    box-shadow: 0 0 3px #333333;
+    float: left;
+    height: 100px;
+    margin: 0 10px 5px 0;
+    width: 100px;
+}
+
+#rewardslist { color; #333; font-family: Trebuchet MS, Tahoma, san-serif; font-size: 12px; margin: 10px 0 0 0; padding: 5px; }
+#rewardslist h2 {
+	color: #0093E0;
+    font-size: 26px;
+    padding: 5px;
+    text-shadow: 1px 1px 0 #CCCCCC;
+}
+#rewardslist td {
+	border: none;
+}
+#rewardslist .rewards { 
+	background-color: #EEEEEE;
+    border: 1px solid #CCCCCC;
+    margin: 0 auto 5px;
+    overflow: hidden;
+    width: 300px;
+}
+#rewardslist .rewards table {
+	border: medium none;
+    padding: 0;
+    width: 100%;
+}
+
+#rewardslist .rewards .type {
+	border-right: 1px dashed #DDDDDD;
+    color: #A09C10;
+    font-family: Calibri,Tahoma,sans-serif;
+    font-size: 25px;
+    padding: 5px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #FFFFFF;
+    text-transform: uppercase;
+    width: 200px;
+}
+
+#rewardslist .rewards .amounts {
+	color: #0093E0;
+    font-family: Impact,Calibri,Tahoma,sans-serif;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #333333;
+    text-transform: uppercase;
+}
+
+#offerslist .searchbox {
+    margin-bottom: 10px;
+}
